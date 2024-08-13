@@ -3,10 +3,7 @@
 <a href="https://www.linkedin.com/in/felipeosantosojo/" target="_blank">
     <img alt="Linkedin.png" height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg">
 </a>
-
-
-
-![Lipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeoe&show_icons=true&theme=transparent)
+<br>
 
 ## Skills
 
@@ -19,3 +16,15 @@
     <img align="center" alt="Node.JS" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           
 </div>
+<br>
+<br>
+<a href="https://github.com/lipeoe/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lipeoe" />
+</a>
+<a href="https://github.com/lipeoe/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipeoe&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+
