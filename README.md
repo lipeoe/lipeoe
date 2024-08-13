@@ -2,9 +2,9 @@
     <img alt="Linkedin.png" height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg">
 </a>
 
-## Skills
+<h1 align="center">Skills</h1>
 
-<div display="flex" justify-content="space-between" style="display: inline_block"><br/>
+<div align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="C#" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
     <img align="center" alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
@@ -16,9 +16,17 @@
 
 <br>
 
-![Lipeoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeoe&show_icons=true&theme=dark)
-<br>
+<div align="center">
+    <a href="https://github.com/lipeoe/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=lipeoe&show_icons=true&theme=dark">
+    </a>
+    <br>
+    <br>
+    <a href="https://github.com/lipeoe/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipeoe&size_weight=0.5&count_weight=0.5&theme=dark">
+    </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lipeoe&size_weight=0.5&count_weight=0.5&theme=dark)
+
 
 
