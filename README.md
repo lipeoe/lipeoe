@@ -1,4 +1,4 @@
-<h3>Skills</h3>
+<h2 style="font-size: 10px;">Skills</h2>
 <div>
     <img align="center" alt="html5" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="C#" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
