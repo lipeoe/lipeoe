@@ -1,12 +1,12 @@
 <h2 style="font-size: 10px;">Skills</h2>
 <div>
-    <img align="center" alt="html5" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="C#" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-    <img align="center" alt="JavaScript" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
-    <img align="center" alt="CSS" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-    <img align="center" alt="React" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="center" alt="Node.JS" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img align="center" lt ="SQL" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img align="center" alt="html5" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="C#" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+    <img align="center" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
+    <img align="center" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img align="center" alt="Node.JS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img align="center" lt ="SQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 <br>
 <div>
