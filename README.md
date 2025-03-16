@@ -11,7 +11,7 @@
 <br>
 <div>
     <a href="https://github.com/lipeoe/convoychat">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeoe&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark">
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeoe&layout=compact&size_weight=0.6&count_weight=0.5&theme=dark">
     </a>
     <div>
         <div>        
