@@ -41,7 +41,12 @@
         <div>
             <a href="https://www.codewars.com/users/lipeoe">
                 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
-            </a>    
+            </a>
+        </div>
+        <div>
+            <a href="vhttps://www.codewars.com/users/lipeoe">
+                <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+            </a>
         </div>
     </div>
 </div>
